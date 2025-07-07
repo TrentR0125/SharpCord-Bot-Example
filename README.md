@@ -1,0 +1,2 @@
+# SharpCord Bot Example
+
